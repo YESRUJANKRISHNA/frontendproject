@@ -1,0 +1,28 @@
+.vb{
+    width:300px;
+    margin-left:700px;
+margin-top: -250px;
+}
+.jk{
+    width: 500px;
+    height: 400px;
+    box-shadow: seagreen;
+    margin-left: 600px;
+border: 2px black solid;
+text-align: center;
+align-items: center;
+border-radius: 2px;
+margin-top: 100px;
+background-color: #f9f9f9; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+.ab{
+    margin-top: 40px;
+    width: 300px;
+    margin-left: 100px;
+}
+.bu{
+
+    margin-right: 130px;
+}

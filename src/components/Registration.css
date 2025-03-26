@@ -1,0 +1,52 @@
+
+.vk {
+    width: 90%;
+    max-width: 500px;
+    height: auto;
+    margin: 100px auto;
+    
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f9f9f9; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.abd {
+    
+    max-width: 300px;
+    margin: 20px auto;
+    
+    border-radius: 2px;
+    
+    
+}
+
+
+@media (max-width: 768px) {
+    .vk {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .abd {
+        max-width: 100%;
+        height: 45px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .vk {
+        width: 95%;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    .abd {
+        max-width: 100%;
+        height: 40px;
+        margin-top: 15px;
+    }
+}
